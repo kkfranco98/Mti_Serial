@@ -1,0 +1,27 @@
+{
+    "name": "Mti_Serial",
+    "version": "1.0.0",
+    "description": "Minimal Arduino library for MTi devices over serial",
+    "keywords": [
+        "mti",
+        "imu",
+        "serial",
+        "sensor"
+    ],
+    "authors": [
+        {
+            "name": "kkfranco98",
+            "maintainer": true,
+            "url": "https://github.com/kkfranco98"
+        }
+    ],
+    "license": "MIT",
+    "frameworks": [
+        "arduino"
+    ],
+    "platforms": "*",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kkfranco98/Mti_Serial"
+    }
+}
